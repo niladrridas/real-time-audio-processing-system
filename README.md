@@ -48,10 +48,8 @@ To get started with the project, follow these steps:
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Collaborator 1](https://github.com/collaborator1)
-- [Collaborator 2](https://github.com/collaborator2)
-
+- [Niladri Das](https://github.com/niladrigithub)
+  
 ## License
 
 This project is open-source and available under the [License Type]. See the [LICENSE](LICENSE) file for details.
