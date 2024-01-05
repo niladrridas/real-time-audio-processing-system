@@ -56,4 +56,4 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 ## Acknowledgments
 
-Special thanks to Lovely Professional University for their valuable contributions to VLSI System Design Workshop which leads this project.
+Special thanks to [Lovely Professional University](https://www.lpu.in) for their valuable contributions to VLSI System Design Workshop which leads this project.
