@@ -52,8 +52,8 @@ To get started with the project, follow these steps:
   
 ## License
 
-This project is open-source and available under the [License Type]. See the [LICENSE](LICENSE) file for details.
+This project is open-source and available under the MIT Licence. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-Special thanks to [Acknowledged Contributor] for their valuable contributions to this project.
+Special thanks to Lovely Professional University for their valuable contributions to VLSI System Design Workshop which leads this project.
