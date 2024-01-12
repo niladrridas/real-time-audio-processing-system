@@ -35,7 +35,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/real-time-audio-processing.git
+    git clone https://github.com/niladrigithub/real-time-audio-processing.git
     ```
 
 2. Open the project in Xilinx Vivado.
